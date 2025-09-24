@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\css"
   ],
-  "SelectedNode": "\\about.html",
+  "SelectedNode": "\\assets\\send_email.php",
   "PreviewInSolutionExplorer": false
 }
